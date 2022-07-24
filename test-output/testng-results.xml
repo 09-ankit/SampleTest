@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46180" started-at="2022-07-13T14:03:01Z" finished-at="2022-07-13T14:03:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46180" started-at="2022-07-13T14:03:01Z" finished-at="2022-07-13T14:03:47Z">
+      <class name="CrmAutomation.CrmTest.AccountPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:CrmAutomation.CrmTest.AccountPageTest@59f99ea]" name="setup" is-config="true" duration-ms="9142" started-at="2022-07-13T19:33:01Z" finished-at="2022-07-13T19:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AccountVerifyAndSelect()[pri:1, instance:CrmAutomation.CrmTest.AccountPageTest@59f99ea]" name="AccountVerifyAndSelect" duration-ms="2429" started-at="2022-07-13T19:33:10Z" finished-at="2022-07-13T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountVerifyAndSelect -->
+        <test-method status="PASS" signature="verifyOuterHeadInnerHead()[pri:2, instance:CrmAutomation.CrmTest.AccountPageTest@59f99ea]" name="verifyOuterHeadInnerHead" duration-ms="34585" started-at="2022-07-13T19:33:13Z" finished-at="2022-07-13T19:33:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOuterHeadInnerHead -->
+      </class> <!-- CrmAutomation.CrmTest.AccountPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
